@@ -19,7 +19,7 @@ export default function HowItWorks({ setCurrentPage }: HowItWorksProps) {
       icon: Calendar,
       desc: "Schedule a quick 30-minute consultation directly on our calendar. During this initial discovery, we discuss your practice's physical structure, daily patient volume, administrative pain points, and current electronic records setup.",
       ctaText: "Book 30-Min Call",
-      ctaLink: "https://calendly.com/drcharthealthcare/30min",
+      ctaLink: "https://calendly.com/dr-sriram-drcharthealthcare/30min",
       isExternal: true
     },
     {

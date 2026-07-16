@@ -114,12 +114,12 @@ export default function Footer({ setCurrentPage }: FooterProps) {
                 <div>
                   <span className="text-[10px] block text-slate-500 font-mono uppercase">Direct Appointment</span>
                   <a
-                    href="https://calendly.com/drcharthealthcare/30min"
+                    href="https://calendly.com/dr-sriram-drcharthealthcare/30min"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-white hover:text-teal-400 transition flex items-center gap-1"
                   >
-                    calendly.com/drcharthealthcare <ExternalLink className="w-3 h-3 text-slate-500" />
+                    calendly.com/dr-sriram-drcharthealthcare/30min <ExternalLink className="w-3 h-3 text-slate-500" />
                   </a>
                 </div>
               </li>

@@ -66,7 +66,7 @@ export default function FAQPage({ setCurrentPage }: FAQPageProps) {
                   Book a quick 30-minute consultation with our clinical onboarding coordinators to discuss your specific medical specialty and current clinical workflows.
                 </p>
                 <a
-                  href="https://calendly.com/drcharthealthcare/30min"
+                  href="https://calendly.com/dr-sriram-drcharthealthcare/30min"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full flex items-center justify-center gap-2 bg-teal-600 hover:bg-teal-500 text-white font-semibold py-2.5 px-4 rounded-xl text-xs transition shadow-sm"

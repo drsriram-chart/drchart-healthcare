@@ -119,7 +119,7 @@ export default function ContactForm() {
           <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 max-w-sm w-full">
             <p className="text-xs text-slate-500 mb-4 font-sans font-medium">Want to speed up your setup? Book a consultation directly on our calendar:</p>
             <a
-              href="https://calendly.com/drcharthealthcare/30min"
+              href="https://calendly.com/dr-sriram-drcharthealthcare/30min"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 w-full bg-teal-600 hover:bg-teal-500 text-white font-semibold py-3 px-4 rounded-xl text-xs transition shadow-md shadow-teal-500/10"

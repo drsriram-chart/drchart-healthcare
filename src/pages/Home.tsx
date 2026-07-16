@@ -92,7 +92,7 @@ export default function Home({ setCurrentPage }: HomeProps) {
 
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
-                  href="https://calendly.com/drcharthealthcare/30min"
+                  href="https://calendly.com/dr-sriram-drcharthealthcare/30min"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2.5 bg-gradient-to-r from-teal-600 to-teal-500 hover:from-teal-500 hover:to-teal-400 text-white font-semibold py-4 px-6 rounded-2xl text-sm transition-all duration-300 shadow-lg shadow-teal-500/15 hover:shadow-teal-500/25 hover:-translate-y-0.5 cursor-pointer"
@@ -351,7 +351,7 @@ export default function Home({ setCurrentPage }: HomeProps) {
             </p>
             <div className="flex flex-col sm:flex-row justify-center gap-4 pt-4">
               <a
-                href="https://calendly.com/drcharthealthcare/30min"
+                href="https://calendly.com/dr-sriram-drcharthealthcare/30min"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 bg-teal-600 hover:bg-teal-500 text-white font-semibold py-3.5 px-6 rounded-xl text-xs transition shadow-md shadow-teal-500/10 cursor-pointer"

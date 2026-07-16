@@ -77,7 +77,7 @@ export default function Contact({ setCurrentPage }: ContactProps) {
 
                 <div className="space-y-4 pt-2">
                   <a
-                    href="https://calendly.com/drcharthealthcare/30min"
+                    href="https://calendly.com/dr-sriram-drcharthealthcare/30min"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full flex items-center justify-center gap-2 bg-teal-600 hover:bg-teal-500 text-white font-bold py-3.5 px-6 rounded-xl text-xs transition shadow-lg shadow-teal-500/10 cursor-pointer"

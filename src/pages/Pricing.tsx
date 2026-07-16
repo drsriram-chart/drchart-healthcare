@@ -37,7 +37,7 @@ export default function Pricing({ setCurrentPage }: PricingProps) {
   };
 
   const handleConsultationClick = () => {
-    window.open('https://calendly.com/drcharthealthcare/30min', '_blank', 'noopener,noreferrer');
+    window.open('https://calendly.com/dr-sriram-drcharthealthcare/30min', '_blank', 'noopener,noreferrer');
   };
 
   return (

@@ -155,7 +155,7 @@ export default function Security({ setCurrentPage }: SecurityProps) {
             </p>
             <div className="pt-4 flex flex-col sm:flex-row justify-center gap-4">
               <a
-                href="https://calendly.com/drcharthealthcare/30min"
+                href="https://calendly.com/dr-sriram-drcharthealthcare/30min"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-teal-600 hover:bg-teal-500 text-white text-xs font-semibold py-3 px-6 rounded-xl transition shadow-md shadow-teal-500/10 cursor-pointer"

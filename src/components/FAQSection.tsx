@@ -61,7 +61,7 @@ export default function FAQSection({ limit }: { limit?: number }) {
     {
       category: 'general',
       question: "How do I book a consultation?",
-      answer: "Booking a consultation is quick and easy. You can schedule a 30-minute complimentary call directly via our Calendly calendar at https://calendly.com/drcharthealthcare/30min, or submit the modern inquiry form on our Contact page. One of our healthcare consultants or medical onboarding specialists will meet with you to review your goals and set up your free trial."
+      answer: "Booking a consultation is quick and easy. You can schedule a 30-minute complimentary call directly via our Calendly calendar at https://calendly.com/dr-sriram-drcharthealthcare/30min, or submit the modern inquiry form on our Contact page. One of our healthcare consultants or medical onboarding specialists will meet with you to review your goals and set up your free trial."
     }
   ];
 

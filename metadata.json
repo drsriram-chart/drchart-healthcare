@@ -1,0 +1,6 @@
+{
+  "name": "DrChart Healthcare",
+  "description": "Reduce Documentation Burden. Focus More on Patient Care. Custom medical documentation, precharting, and EHR workflow support for US physicians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
